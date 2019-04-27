@@ -10,6 +10,6 @@
 2. 如果合併PDF，則按順序說明被合成的PDF所在路徑，輸出merge.pdf
 
 # 運行注意事項：
-1. 需要PyPDF2（1.23）庫，sudo pip3安裝PyPDF2
-2. 需要docopt（0.6.2）庫，sudo pip3安裝docopt
-3. 進入pdf目錄後，運行pk.py文件即可看到基本的命令，pk -h進一步查看命令
+1. 需要PyPDF2（1.23）庫，sudo pip3 安裝PyPDF2
+2. 需要docopt（0.6.2）庫，sudo pip3 安裝docopt
+3. 進入PDF目錄後，運行pk.py文件即可看到基本的命令，pk -h進一步查看命令
