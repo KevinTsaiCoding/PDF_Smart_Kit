@@ -9,4 +9,7 @@
 1. 如果是生成書籤，則至少說明目錄所在頁數和內容第一頁所在頁數，輸出原PDF的副本文件（* _copy.pdf）
 2. 如果合併PDF，則按順序說明被合成的PDF所在路徑，輸出merge.pdf
 
-圖片:
+# 運行注意事項：
+1. 需要PyPDF2（1.23）庫，sudo pip3安裝PyPDF2
+2. 需要docopt（0.6.2）庫，sudo pip3安裝docopt
+3. 進入pdf目錄後，運行pk.py文件即可看到基本的命令，pk -h進一步查看命令
