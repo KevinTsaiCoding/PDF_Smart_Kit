@@ -23,3 +23,6 @@ Windows10，Python3
 # 功能
 1. 移除掉原本的合併功能
 2. 將LAST_PAGE_NUMBER的功能改成FIRST_PAGE_NUMBER
+
+# 效果圖
+![result](https://user-images.githubusercontent.com/48882710/56859078-54da4380-69b8-11e9-8984-e903ff723529.jpg)
