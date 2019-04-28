@@ -5,6 +5,10 @@
 1. 合併PDF
 2. PDF生成目錄
 
+
+
+![help](https://user-images.githubusercontent.com/48882710/56858991-d630d680-69b6-11e9-90fb-385f7a98962f.jpg)
+
 # 使用說明
 1. 如果是生成書籤，則至少說明目錄所在頁數和內容第一頁所在頁數，輸出原PDF的副本文件（* _copy.pdf）
 2. 如果合併PDF，則按順序說明被合成的PDF所在路徑，輸出merge.pdf
